@@ -1,0 +1,23 @@
+/* Add all your styles here */
+.goldenrod-color { color:goldenrod;
+}
+body { font-family: Broadway ;
+       color: steelblue;
+       line-height:26px;
+       background-color: #ff00cc;
+       background-position: top ;
+       }
+.half-width { width:50%;
+              float:left;
+              border: double;
+              border-radius: 20px;
+              padding:20px ;
+              border-color: steelblue;
+              }
+.side-img { width: 50%;
+            height:50%;
+            padding-left: 25%;
+            float: right;}
+.container { 
+            padding-left: 5%;
+            display: .inline-block;}
